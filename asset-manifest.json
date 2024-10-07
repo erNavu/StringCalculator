@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StringCalculator/static/css/main.4d52c8f2.css",
+    "main.js": "/StringCalculator/static/js/main.b020a403.js",
+    "index.html": "/StringCalculator/index.html",
+    "main.4d52c8f2.css.map": "/StringCalculator/static/css/main.4d52c8f2.css.map",
+    "main.b020a403.js.map": "/StringCalculator/static/js/main.b020a403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d52c8f2.css",
+    "static/js/main.b020a403.js"
+  ]
+}
